@@ -16,3 +16,15 @@ from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, mean_squared_error
+
+# Deep learning libraries
+import keras
+import tensorflow as tf
+import torch
+import torchvision
+import torchaudio
+
+# Gradient boosting libraries
+import xgboost
+import lightgbm
+import catboost
