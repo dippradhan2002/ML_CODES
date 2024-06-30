@@ -14,13 +14,13 @@
 ##########################################################################################################################
 
 
-# Install python-dateutil Library (It will convert all sort of date format into a valid format,if invalid date is there fillup with NaN)
+# Install python-dateutil Library (It will convert all sort of time format into a valid format,if invalid date is there fillup with NaN)
 pip install python-dateutil
 
 # Import parser library
 from dateutil import parser
 
-# Function to make all date and time in a correct format
+# Function to make all time in a correct format
 def standardize_time_formats(df, column_name):
     def parse_and_format_time(time_str):
         try:
