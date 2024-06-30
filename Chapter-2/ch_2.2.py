@@ -6,4 +6,4 @@ df2 = df.drop(cols_to_remove, axis=1)
 
 
 ## REPLACE NaN 
- - Rows having null values will be deleted
+# 1) Rows having `null values` will be deleted
