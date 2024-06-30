@@ -16,9 +16,12 @@
 
 # Install python-dateutil Library (It will convert all sort of time format into a valid format,if invalid date is there fillup with NaN)
 pip install python-dateutil
+________________________________________________________________
 
 # Import parser library
 from dateutil import parser
+
+________________________________________________________________
 
 # Function to make all time in a correct format
 def standardize_time_formats(df, column_name):
@@ -31,6 +34,8 @@ def standardize_time_formats(df, column_name):
 
     df[column_name] = df[column_name].apply(parse_and_format_time)
     return df
+________________________________________________________________
+
 
 # Implementation of this function
 df_cleaned = standardize_time_formats(df, 'time_column')
