@@ -4,12 +4,13 @@
 Welcome to the Machine Learning Project Repository. This repository contains the complete syllabus and codes for various machine learning projects. Each project is organized by topic and includes detailed instructions and examples.
 
 ## Table of Contents
-- [Introduction](#Introduction)
-- - [hello]
-  
-- [CH - 1 : IMPORT LIBRARIES & LOAD DATASET](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-1)
-  
-- [CH - 2 : EXPLORE DATA SET & DATA CLEANING](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-2)
+- [Introduction](#introduction)
+- [CH - 1 : IMPORT LIBRARIES & LOAD DATASET](#ch-1--import-libraries--load-dataset)
+  - [1.1 Import Libraries](#11-import-libraries)
+  - [1.2 Load Dataset](#12-load-dataset)
+- [CH - 2 : EXPLORE DATA SET & DATA CLEANING](#ch-2--explore-data-set--data-cleaning)
+  - [2.1 Explore Dataset](#21-explore-dataset)
+  - [2.2 Data Cleaning](#22-data-cleaning)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Syllabus and Codes](#syllabus-and-codes)
@@ -17,21 +18,36 @@ Welcome to the Machine Learning Project Repository. This repository contains the
 - [License](#license)
 - [Contact Information](#contact-information)
 
-## Installation
+## CH - 1 : IMPORT LIBRARIES & LOAD DATASET
 
-### Prerequisites
-- Python 3.x
-- Libraries: numpy, pandas, scikit-learn, matplotlib, etc.
+### 1.1 Import Libraries
+Detailed instructions on importing necessary libraries.
 
-### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+### 1.2 Load Dataset
+Step-by-step guide on loading datasets into your project.
 
+## CH - 2 : EXPLORE DATA SET & DATA CLEANING
 
-### Tips
-- **Be Clear and Concise:** Ensure your instructions are easy to understand.
-- **Use Markdown:** Markdown is a simple formatting syntax that is widely used for README files on GitHub.
-- **Update Regularly:** Keep your README up-to-date with the latest changes in your project.
+### 2.1 Explore Dataset
+How to explore your dataset using various methods.
 
-Feel free to customize the README template to suit your specific project needs.
+### 2.2 Data Cleaning
+Techniques and methods for cleaning your dataset.
+
+## Usage
+Instructions on how to use this repository.
+
+## Project Structure
+Outline of the project structure.
+
+## Syllabus and Codes
+Detailed syllabus and corresponding codes for each module.
+
+## Contributing
+Guidelines for contributing to this repository.
+
+## License
+Information about the project license.
+
+## Contact Information
+How to contact for further questions or support.
