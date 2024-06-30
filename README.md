@@ -3,6 +3,19 @@
 ## Introduction
 Welcome to the Machine Learning Project Repository. This repository contains the complete syllabus and codes for various machine learning projects. Each project is organized by topic and includes detailed instructions and examples.
 
+## Introduction
+There are few steps involved in ML, these are -
+- DATA GATHERING
+- DATA CLEANING
+- EDA
+- FEATURE ENGINEERING
+- DATA PREPROCESSING
+- FINDING BEST MODEL
+- MODEL TRAINING
+- MODEL TUNING
+- DEPLOYMENT
+- MONITOR
+
 ## Table of Contents
 - [Introduction](#introduction)
   
