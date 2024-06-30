@@ -11,11 +11,15 @@ df = pd.DataFrame(data)
 # klib.clean - functions for cleaning datasets
 klib.mv_col_handling(df) # drops features with high ratio of missing vals based on informational content
 
+
 klib.data_cleaning(df) # performs datacleaning (drop duplicates & empty rows/cols, adjust dtypes,...)
+****************************************************************************************************
+# THE BELOW THREE FUNCTIONS ARE ALREADY DEFINED INSIDE data_cleaning()
+****************************************************************************************************
 klib.clean_column_names(df) # cleans and standardizes column names, also called inside data_cleaning()
 klib.convert_datatypes(df) # converts existing to more efficient dtypes, also called inside data_cleaning()
 klib.drop_missing(df) # drops missing values, also called in data_cleaning()
-
+****************************************************************************************************
 
 # klib.describe - functions for visualizing datasets
 klib.cat_plot(df) # returns a visualization of the number and frequency of categorical features
