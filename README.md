@@ -5,7 +5,7 @@ Welcome to the Machine Learning Project Repository. This repository contains the
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Table of Contents](#table-of-contents)
+- [Chapter 1](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-1)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
