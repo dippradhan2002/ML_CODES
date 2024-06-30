@@ -8,6 +8,7 @@
 
 def validate_numeric_column(df, column_name, min_value=None, max_value=None):
     errors = []
+    
     if not pd.api.types.is_numeric_dtype(df[column_name]):
         errors.append(f"Data type check failed for column '{column_name}'. Expected numeric.")
     if min_value is not None and (df[column_name] < min_value).any():
@@ -16,7 +17,10 @@ def validate_numeric_column(df, column_name, min_value=None, max_value=None):
         errors.append(f"Range check failed for column '{column_name}'. Maximum value should be {max_value}.")
     if df[column_name].isnull().any():
         errors.append(f"Presence check failed for column '{column_name}'. Null values are not allowed.")
-    return errors
+    if not errors:
+        return "Validation successful. No errors found."
+    else:
+        return errors
 
 
 
