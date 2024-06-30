@@ -24,6 +24,8 @@ pip install python-dateutil
 # Import parser library
 from dateutil import parser
 
+________________________________________________________________
+
 # Function to make all date in a correct format
 def standardize_date_formats(df, column_name):
     def parse_and_format_date(date_str):
@@ -35,6 +37,8 @@ def standardize_date_formats(df, column_name):
 
     df[column_name] = df[column_name].apply(parse_and_format_date)
     return df
+            
+________________________________________________________________
 
 # Implementation of this function
 df_cleaned = standardize_date_formats(df, 'date_column')
