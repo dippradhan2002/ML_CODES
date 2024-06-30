@@ -24,7 +24,7 @@ pip install python-dateutil
 # Import parser library
 from dateutil import parser
 
-# Function to make all date and time in a correct format
+# Function to make all date in a correct format
 def standardize_date_formats(df, column_name):
     def parse_and_format_date(date_str):
         try:
