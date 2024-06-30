@@ -6,12 +6,33 @@ Welcome to the Machine Learning Project Repository. This repository contains the
 ## Table of Contents
 - [Introduction](#introduction)
   
-- [CH - 1 : IMPORT LIBRARIES & LOAD DATASET](#ch-1--import-libraries--load-dataset)
+- [CH - 1 : IMPORT LIBRARIES & LOAD DATASET](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-1)
   - [1.1 Install all Libraries](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.1.py)
   - [1.1 Import all Libraries](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.2.py)
   - [1.2 Load Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.3.py)
  
-- [CH - 2 : EXPLORE DATA SET & DATA CLEANING](#ch-2--explore-data-set--data-cleaning)
+- [CH - 2 : EXPLORE DATA SET & DATA CLEANING](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-2)
+  - [2.1 Explore Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.1.py)
+  - [2.2 How to drop col & rows](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.2.py)
+  - [2.3 Handle Null Values](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.3(null_val).py)
+  - [2.4 Data Cleaning (using klib)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.4(klib_cleaning).py)
+  - [2.5 Digit Extraction from int+string (e.g - 2 Stops but we need 2 only)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.5.py)
+    
+- [CH - 3 : EXPLORE DATA SET & DATA CLEANING](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-2)
+  - [2.1 Explore Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.1.py)
+  - [2.2 How to drop col & rows](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.2.py)
+  - [2.3 Handle Null Values](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.3(null_val).py)
+  - [2.4 Data Cleaning (using klib)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.4(klib_cleaning).py)
+  - [2.5 Digit Extraction from int+string (e.g - 2 Stops but we need 2 only)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.5.py)
+    
+- [CH - 4 : EXPLORE DATA SET & DATA CLEANING](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-2)
+  - [2.1 Explore Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.1.py)
+  - [2.2 How to drop col & rows](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.2.py)
+  - [2.3 Handle Null Values](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.3(null_val).py)
+  - [2.4 Data Cleaning (using klib)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.4(klib_cleaning).py)
+  - [2.5 Digit Extraction from int+string (e.g - 2 Stops but we need 2 only)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.5.py)
+
+- [CH - 5 : EXPLORE DATA SET & DATA CLEANING](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-2)
   - [2.1 Explore Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.1.py)
   - [2.2 How to drop col & rows](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.2.py)
   - [2.3 Handle Null Values](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.3(null_val).py)
