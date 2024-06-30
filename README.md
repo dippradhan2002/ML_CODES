@@ -13,7 +13,10 @@ Welcome to the Machine Learning Project Repository. This repository contains the
  
 - [CH - 2 : EXPLORE DATA SET & DATA CLEANING](#ch-2--explore-data-set--data-cleaning)
   - [2.1 Explore Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.1.py)
-  - [2.2 Data Cleaning](#22-data-cleaning)
+  - [2.2 How to drop col & rows]()
+  - [2.3 Handle Null Values]()
+  - [2.4 Data Cleaning]()
+  - [2.5 Digit Extraction from int+string (e.g - 2 Stops, need 2)]()
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Syllabus and Codes](#syllabus-and-codes)
