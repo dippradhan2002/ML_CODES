@@ -5,8 +5,10 @@ Welcome to the Machine Learning Project Repository. This repository contains the
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [CH-1 : IMPORT LIBRARIES & LOAD DATASET](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-1)
-- [Installation](#installation)
+- 
+- [CH - 1 : IMPORT LIBRARIES & LOAD DATASET](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-1)
+- 
+- [CH - 2 : DATA CLEANING](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-2)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Syllabus and Codes](#syllabus-and-codes)
