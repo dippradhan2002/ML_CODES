@@ -18,12 +18,12 @@ Welcome to the Machine Learning Project Repository. This repository contains the
   - [2.4 Data Cleaning (using klib)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.4(klib_cleaning).py)
   - [2.5 Digit Extraction from int+string (e.g - 2 Stops but we need 2 only)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.5.py)
     
-- [CH - 3 : EXPLORE DATA SET & DATA CLEANING](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-3)
-  - [2.1 Explore Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.1.py)
-  - [2.2 How to drop col & rows](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.2.py)
-  - [2.3 Handle Null Values](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.3(null_val).py)
-  - [2.4 Data Cleaning (using klib)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.4(klib_cleaning).py)
-  - [2.5 Digit Extraction from int+string (e.g - 2 Stops but we need 2 only)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.5.py)
+- [CH - 3 : FEATURE ENGINEERING (PART - 1)](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-3)
+  - [3.1 Distribution Curve Fitting](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-3/ch_3.1.py)
+  - [3.2 Outliars Removal for Normal Dist](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.2.py)
+  - [3.3 Box Plot](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.3(null_val).py)
+  - [3.4 IQR METHOD](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.4(klib_cleaning).py)
+  - [3.5 Digit Extraction from int+string (e.g - 2 Stops but we need 2 only)](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.5.py)
     
 - [CH - 4 : EXPLORE DATA SET & DATA CLEANING](https://github.com/dippradhan2002/ML_CODES/tree/main/Chapter-4)
   - [2.1 Explore Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.1.py)
