@@ -4,7 +4,7 @@
 Welcome to the Machine Learning Project Repository. This repository contains the complete syllabus and codes for various machine learning projects. Each project is organized by topic and includes detailed instructions and examples.
 
 ## Table of Contents
-- [Introduction](#Chapter-1)
+- [Introduction](#Introduction)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
