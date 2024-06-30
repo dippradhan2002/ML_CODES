@@ -1,27 +1,27 @@
 ##########################################################
-
+#            Date Validation
 ##########################################################
 
 
-def validate_categorical_column(df, column_name, allowed_values=None):
+def validate_datetime_column(df, column_name, date_format='%Y-%m-%d'):
     errors = []
-    if not pd.api.types.is_string_dtype(df[column_name]):
-        errors.append(f"Data type check failed for column '{column_name}'. Expected string (categorical).")
-    if df[column_name].nunique() != len(df[column_name]):
-        errors.append(f"Unique values check failed for column '{column_name}'. All values must be unique.")
+    if not pd.api.types.is_datetime64_any_dtype(df[column_name]):
+        errors.append(f"Data type check failed for column '{column_name}'. Expected datetime.")
+    try:
+        pd.to_datetime(df[column_name], format=date_format, errors='raise')
+    except (TypeError, ValueError):
+        errors.append(f"Format validation failed for column '{column_name}'. Expected format: {date_format}.")
     if df[column_name].isnull().any():
         errors.append(f"Presence check failed for column '{column_name}'. Null values are not allowed.")
-    if allowed_values is not None and not df[column_name].isin(allowed_values).all():
-        errors.append(f"Specific value check failed for column '{column_name}'. Allowed values are {allowed_values}.")
+
     return errors
 
 
-
 ##########################################################
 
 
-# Validate 'category_column'
-category_validation_errors = validate_categorical_column(df, 'category_column', allowed_values=['Asf', 'Books', 'Cat'])
+# Validate 'datetime_column'
+datetime_validation_errors = validate_datetime_column(df, 'datetime_column', date_format='%Y-%m-%d')
 
 # the above will return all the errors
 
