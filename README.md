@@ -12,7 +12,7 @@ Welcome to the Machine Learning Project Repository. This repository contains the
   - [1.2 Load Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.3.py)
  
 - [CH - 2 : EXPLORE DATA SET & DATA CLEANING](#ch-2--explore-data-set--data-cleaning)
-  - [2.1 Explore Dataset](#21-explore-dataset)
+  - [2.1 Explore Dataset](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-2/ch_2.1.py)
   - [2.2 Data Cleaning](#22-data-cleaning)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
