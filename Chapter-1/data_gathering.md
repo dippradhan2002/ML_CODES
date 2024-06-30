@@ -3,7 +3,7 @@
 Data gathering marks the pivotal first step in any machine learning endeavor. To embark on this journey smoothly, consider these essential checkpoints:
 
 1. [**Install Essential Libraries (ch_1.1)**:](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.1.py)
-     Begin by equipping yourself with the necessary tools. Install Python libraries such as NumPy, Pandas, and Scikit-learn to handle data efficiently.
+     Begin by equipping yourself with the necessary tools. Install Python libraries such as NumPy, Pandas,Scikit-learn etc. to handle data efficiently.
 
 2. [**Import Essential Libraries (ch_1.2)**:](https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.2.py)
      Import these libraries into your workspace. These powerhouses streamline data manipulation, preprocessing, and modeling tasks.
