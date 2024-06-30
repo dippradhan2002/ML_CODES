@@ -6,8 +6,9 @@ Welcome to the Machine Learning Project Repository. This repository contains the
 ## Table of Contents
 - [Introduction](#introduction)
 - [CH - 1 : IMPORT LIBRARIES & LOAD DATASET](#ch-1--import-libraries--load-dataset)
-  - [1.1 Import Libraries](#11-import-libraries)
-  - [1.2 Load Dataset](#12-load-dataset)
+  - [1.1 Install all Libraries]((https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.1.py))
+  - [1.1 Import all Libraries]((https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.2.py))
+  - [1.2 Load Dataset]((https://github.com/dippradhan2002/ML_CODES/blob/main/Chapter-1/ch_1.3.py))
 - [CH - 2 : EXPLORE DATA SET & DATA CLEANING](#ch-2--explore-data-set--data-cleaning)
   - [2.1 Explore Dataset](#21-explore-dataset)
   - [2.2 Data Cleaning](#22-data-cleaning)
