@@ -6,6 +6,12 @@ df = df.applymap(str.strip)
 ________________________________________
 
 ________________________________________
+# Extract only string parts, ignoring whitespaces and numerics
+----------------------------------------
+df['cleaned_feature'] = df['feature'].str.replace(r'[^a-zA-Z]', '', regex=True)
+________________________________________
+
+________________________________________
 `Converting to Lower Case`
 ----------------------------------------
 # Converting all strings to lower case
